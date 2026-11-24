@@ -6,3 +6,5 @@ Men o‘quvchiman.
 - IT da dasturlashni o‘rganish
 **Mening maqsadim — bilimli bo‘lish.**
 [My GitHub](https://github.com/gozaloy2012)
+## Yangi maqsadlarim
+- Dasturlashni yanada o‘rganish
